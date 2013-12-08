@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "server.js",
   "dependencies": {
-    "express": "latest"
+    "express": "latest",
     "twit": "latest
   },
   "engines": {
